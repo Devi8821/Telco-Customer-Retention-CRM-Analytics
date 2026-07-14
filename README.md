@@ -1,2 +1,2 @@
 # Telco-Customer-Retention-CRM-Analytics
-This project analyzes customer churn behavior using SQL and Power BI. The objective is to identify churn drivers, measure revenue loss, and provide business recommendations to improve customer retention.
+An end-to-end data analytics project that explores customer churn behavior, measures its financial impact, and provides actionable retention strategies using SQL and Power BI.
