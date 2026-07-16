@@ -70,5 +70,4 @@ outputs was the real milestone of this project, not the visuals.
 ---
 
 📫 Questions or feedback on this analysis? Reach out on
-[LinkedIn](https://www.linkedin.com/in/dauliaoktaviona) or email
-dauliaoktaviona@gmail.com.
+[LinkedIn](https://www.linkedin.com/in/dauliaoktaviona) or email deviau.ok01@gmail.com
